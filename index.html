@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Human OS — Your Body's Operating System</title>
+  <meta name="description" content="A structured course teaching you how the human body works — organs, hormones, nutrition, sleep, and lifestyle.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body data-page="toc">
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="index.html" class="site-title">The Human OS</a>
+      <button id="dark-mode-toggle" class="icon-btn" aria-label="Toggle dark mode"></button>
+    </div>
+  </header>
+
+  <main class="container toc-container">
+    <div class="hero">
+      <h1>The Human OS</h1>
+      <p class="tagline">Your Body's Operating System</p>
+    </div>
+
+    <div id="continue-reading" class="continue-card" hidden></div>
+
+    <div id="progress-bar" class="progress-bar" hidden></div>
+
+    <div class="search-wrapper">
+      <input type="text" id="search-input" placeholder="Search articles…" aria-label="Search articles">
+    </div>
+
+    <div id="toc-sections"></div>
+  </main>
+
+  <footer class="site-footer">
+    <p class="disclaimer">This site is for educational purposes only and does not constitute medical advice. Consult a qualified healthcare professional for personal health decisions.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

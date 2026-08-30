@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Human OS</title>
+  <meta name="description" content="">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body data-page="article">
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="index.html" class="back-link">← All Articles</a>
+      <a href="index.html" class="site-title-small">The Human OS</a>
+      <button id="dark-mode-toggle" class="icon-btn" aria-label="Toggle dark mode"></button>
+    </div>
+  </header>
+
+  <main class="container article-container">
+    <div id="article-loading" class="loading">Loading…</div>
+
+    <article id="article-content" hidden>
+      <div class="article-meta">
+        <span id="article-section" class="breadcrumb"></span>
+        <span id="article-reading-time" class="reading-time"></span>
+      </div>
+      <h1 id="article-title"></h1>
+      <div id="article-body" class="article-body"></div>
+    </article>
+
+    <nav id="article-nav" class="article-nav" hidden>
+      <a id="prev-article" class="nav-link nav-prev" href="#">← Previous</a>
+      <a id="next-article" class="nav-link nav-next" href="#">Next →</a>
+    </nav>
+  </main>
+
+  <footer class="site-footer">
+    <p class="disclaimer">This site is for educational purposes only and does not constitute medical advice.</p>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked@11.2.0/marked.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

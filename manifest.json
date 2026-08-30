@@ -1,0 +1,303 @@
+{
+  "sections": [
+    {
+      "id": "01-systems-overview",
+      "title": "Systems Overview",
+      "order": 1,
+      "articles": [
+        {
+          "slug": "00-intro",
+          "title": "Why Systems Thinking Matters for Your Body",
+          "order": 0,
+          "summary": "A quick map of how your body's major systems talk to each other.",
+          "path": "content/01-systems-overview/00-intro.md",
+          "readingTimeMinutes": 2
+        },
+        {
+          "slug": "01-cardiovascular",
+          "title": "The Cardiovascular System",
+          "order": 1,
+          "summary": "How your heart and blood vessels deliver oxygen and nutrients to every cell.",
+          "path": "content/01-systems-overview/01-cardiovascular.md",
+          "readingTimeMinutes": 5
+        },
+        {
+          "slug": "02-respiratory",
+          "title": "The Respiratory System",
+          "order": 2,
+          "summary": "How your lungs exchange gases to keep cells alive and remove waste.",
+          "path": "content/01-systems-overview/02-respiratory.md",
+          "readingTimeMinutes": 4
+        },
+        {
+          "slug": "03-digestive",
+          "title": "The Digestive System",
+          "order": 3,
+          "summary": "How your body breaks down food into molecules it can actually use.",
+          "path": "content/01-systems-overview/03-digestive.md",
+          "readingTimeMinutes": 5
+        },
+        {
+          "slug": "04-nervous",
+          "title": "The Nervous System",
+          "order": 4,
+          "summary": "How your brain and nerves sense, decide, and act in milliseconds.",
+          "path": "content/01-systems-overview/04-nervous.md",
+          "readingTimeMinutes": 5
+        },
+        {
+          "slug": "05-endocrine-overview",
+          "title": "The Endocrine System",
+          "order": 5,
+          "summary": "How hormones serve as your body's slow but powerful chemical messengers.",
+          "path": "content/01-systems-overview/05-endocrine-overview.md",
+          "readingTimeMinutes": 5
+        },
+        {
+          "slug": "06-immune",
+          "title": "The Immune System",
+          "order": 6,
+          "summary": "How your body identifies and fights off pathogens, from skin barriers to T-cells.",
+          "path": "content/01-systems-overview/06-immune.md",
+          "readingTimeMinutes": 5
+        },
+        {
+          "slug": "07-musculoskeletal",
+          "title": "The Musculoskeletal System",
+          "order": 7,
+          "summary": "How bones and muscles provide structure, movement, and metabolic support.",
+          "path": "content/01-systems-overview/07-musculoskeletal.md",
+          "readingTimeMinutes": 5
+        }
+      ]
+    },
+    {
+      "id": "02-hormones",
+      "title": "Hormones",
+      "order": 2,
+      "articles": [
+        {
+          "slug": "00-intro",
+          "title": "Chemical Messengers",
+          "order": 0,
+          "summary": "Why hormones are the body's most powerful signaling system.",
+          "path": "content/02-hormones/00-intro.md",
+          "readingTimeMinutes": 2
+        },
+        {
+          "slug": "01-insulin-glucagon",
+          "title": "Insulin and Glucagon",
+          "order": 1,
+          "summary": "How your body keeps blood sugar in a narrow, safe range.",
+          "path": "content/02-hormones/01-insulin-glucagon.md",
+          "readingTimeMinutes": 5
+        },
+        {
+          "slug": "02-cortisol",
+          "title": "Cortisol and the Stress Response",
+          "order": 2,
+          "summary": "How your body's main stress hormone works, and why chronic elevation matters.",
+          "path": "content/02-hormones/02-cortisol.md",
+          "readingTimeMinutes": 5
+        },
+        {
+          "slug": "03-thyroid",
+          "title": "Thyroid Hormones",
+          "order": 3,
+          "summary": "How T3 and T4 set the metabolic pace for nearly every cell in your body.",
+          "path": "content/02-hormones/03-thyroid.md",
+          "readingTimeMinutes": 5
+        },
+        {
+          "slug": "04-sex-hormones",
+          "title": "Sex Hormones",
+          "order": 4,
+          "summary": "Estrogen, progesterone, and testosterone do far more than drive reproduction.",
+          "path": "content/02-hormones/04-sex-hormones.md",
+          "readingTimeMinutes": 5
+        },
+        {
+          "slug": "05-hunger-hormones-leptin-ghrelin",
+          "title": "Leptin and Ghrelin",
+          "order": 5,
+          "summary": "The two hormones that regulate hunger, satiety, and energy balance.",
+          "path": "content/02-hormones/05-hunger-hormones-leptin-ghrelin.md",
+          "readingTimeMinutes": 5
+        },
+        {
+          "slug": "06-melatonin",
+          "title": "Melatonin and Your Sleep Clock",
+          "order": 6,
+          "summary": "How darkness triggers your body's signal that it's time to sleep.",
+          "path": "content/02-hormones/06-melatonin.md",
+          "readingTimeMinutes": 4
+        },
+        {
+          "slug": "07-feedback-loops",
+          "title": "Hormonal Feedback Loops",
+          "order": 7,
+          "summary": "How your endocrine system uses negative and positive feedback to maintain balance.",
+          "path": "content/02-hormones/07-feedback-loops.md",
+          "readingTimeMinutes": 5
+        }
+      ]
+    },
+    {
+      "id": "03-nutrition",
+      "title": "Nutrition",
+      "order": 3,
+      "articles": [
+        {
+          "slug": "00-intro",
+          "title": "Fuel, Building Blocks, and Information",
+          "order": 0,
+          "summary": "Why what you eat matters at the molecular level.",
+          "path": "content/03-nutrition/00-intro.md",
+          "readingTimeMinutes": 2
+        },
+        {
+          "slug": "01-macronutrients",
+          "title": "Macronutrients",
+          "order": 1,
+          "summary": "Carbohydrates, proteins, and fats — what each one does and why you need all three.",
+          "path": "content/03-nutrition/01-macronutrients.md",
+          "readingTimeMinutes": 5
+        },
+        {
+          "slug": "02-vitamins-fat-soluble",
+          "title": "Fat-Soluble Vitamins",
+          "order": 2,
+          "summary": "Vitamins A, D, E, and K — stored in fat, critical for vision, bones, and blood.",
+          "path": "content/03-nutrition/02-vitamins-fat-soluble.md",
+          "readingTimeMinutes": 5
+        },
+        {
+          "slug": "03-vitamins-water-soluble",
+          "title": "Water-Soluble Vitamins",
+          "order": 3,
+          "summary": "The B vitamins and vitamin C — why you need a steady supply.",
+          "path": "content/03-nutrition/03-vitamins-water-soluble.md",
+          "readingTimeMinutes": 5
+        },
+        {
+          "slug": "04-minerals",
+          "title": "Essential Minerals",
+          "order": 4,
+          "summary": "From calcium to zinc — the inorganic elements your body cannot make.",
+          "path": "content/03-nutrition/04-minerals.md",
+          "readingTimeMinutes": 5
+        },
+        {
+          "slug": "05-digestion-process",
+          "title": "The Digestion Process",
+          "order": 5,
+          "summary": "Step by step from mouth to absorption — how food becomes fuel.",
+          "path": "content/03-nutrition/05-digestion-process.md",
+          "readingTimeMinutes": 5
+        },
+        {
+          "slug": "06-gut-microbiome",
+          "title": "The Gut Microbiome",
+          "order": 6,
+          "summary": "Trillions of microorganisms that influence digestion, immunity, and even mood.",
+          "path": "content/03-nutrition/06-gut-microbiome.md",
+          "readingTimeMinutes": 5
+        }
+      ]
+    },
+    {
+      "id": "04-sleep",
+      "title": "Sleep",
+      "order": 4,
+      "articles": [
+        {
+          "slug": "00-intro",
+          "title": "Why Sleep Is Non-Negotiable",
+          "order": 0,
+          "summary": "The biological case for prioritizing sleep above almost everything else.",
+          "path": "content/04-sleep/00-intro.md",
+          "readingTimeMinutes": 2
+        },
+        {
+          "slug": "01-sleep-architecture",
+          "title": "Sleep Architecture",
+          "order": 1,
+          "summary": "The stages and cycles of a night's sleep — from light to deep to REM.",
+          "path": "content/04-sleep/01-sleep-architecture.md",
+          "readingTimeMinutes": 5
+        },
+        {
+          "slug": "02-circadian-rhythm",
+          "title": "Your Circadian Rhythm",
+          "order": 2,
+          "summary": "The master clock that runs your body on a roughly 24-hour cycle.",
+          "path": "content/04-sleep/02-circadian-rhythm.md",
+          "readingTimeMinutes": 5
+        },
+        {
+          "slug": "03-sleep-and-hormones",
+          "title": "Sleep and Hormones",
+          "order": 3,
+          "summary": "How sleep and your endocrine system depend on each other.",
+          "path": "content/04-sleep/03-sleep-and-hormones.md",
+          "readingTimeMinutes": 5
+        },
+        {
+          "slug": "04-sleep-and-immunity",
+          "title": "Sleep and Immunity",
+          "order": 4,
+          "summary": "Why your immune system needs you to sleep — and what happens when you don't.",
+          "path": "content/04-sleep/04-sleep-and-immunity.md",
+          "readingTimeMinutes": 5
+        }
+      ]
+    },
+    {
+      "id": "05-lifestyle-integration",
+      "title": "Lifestyle Integration",
+      "order": 5,
+      "articles": [
+        {
+          "slug": "00-intro",
+          "title": "Putting It All Together",
+          "order": 0,
+          "summary": "How systems, hormones, nutrition, and sleep interact in your daily life.",
+          "path": "content/05-lifestyle-integration/00-intro.md",
+          "readingTimeMinutes": 2
+        },
+        {
+          "slug": "01-exercise-physiology",
+          "title": "Exercise Physiology",
+          "order": 1,
+          "summary": "What happens inside your body when you move — from ATP to adaptation.",
+          "path": "content/05-lifestyle-integration/01-exercise-physiology.md",
+          "readingTimeMinutes": 5
+        },
+        {
+          "slug": "02-stress-and-cortisol-longterm",
+          "title": "Chronic Stress",
+          "order": 2,
+          "summary": "What long-term cortisol elevation does to your cardiovascular, immune, and metabolic systems.",
+          "path": "content/05-lifestyle-integration/02-stress-and-cortisol-longterm.md",
+          "readingTimeMinutes": 5
+        },
+        {
+          "slug": "03-how-it-all-connects",
+          "title": "How It All Connects",
+          "order": 3,
+          "summary": "Cross-system interactions and cascading effects — why nothing works in isolation.",
+          "path": "content/05-lifestyle-integration/03-how-it-all-connects.md",
+          "readingTimeMinutes": 5
+        },
+        {
+          "slug": "04-building-daily-habits",
+          "title": "Building Daily Habits",
+          "order": 4,
+          "summary": "Evidence-based routines that support your body's interconnected systems.",
+          "path": "content/05-lifestyle-integration/04-building-daily-habits.md",
+          "readingTimeMinutes": 5
+        }
+      ]
+    }
+  ]
+}
