@@ -1,0 +1,89 @@
+# The Human OS
+
+**Your Body's Operating System**
+
+A structured, self-paced course that teaches how the human body works — systems, hormones, nutrition, sleep, and lifestyle — in 33 short, sourced articles. Built as a static site with a clean, Medium-style reading experience.
+
+**[Start reading →](https://sucheno.github.io/the-human-os/)**
+
+---
+
+## What's inside
+
+| Section | Articles | Topics |
+|---------|----------|--------|
+| **Systems Overview** | 8 | Cardiovascular, respiratory, digestive, nervous, endocrine, immune, musculoskeletal |
+| **Hormones** | 8 | Insulin & glucagon, cortisol, thyroid, sex hormones, leptin & ghrelin, melatonin, feedback loops |
+| **Nutrition** | 7 | Macronutrients, fat-soluble & water-soluble vitamins, minerals, digestion process, gut microbiome |
+| **Sleep** | 5 | Sleep architecture, circadian rhythm, sleep-hormone interactions, sleep and immunity |
+| **Lifestyle Integration** | 5 | Exercise physiology, chronic stress, cross-system connections, daily habits |
+
+Each article is 600–1,000 words (~4–6 min read), written in plain language for a curious adult with no medical background. Every article includes a **Sources** section citing NIH, Mayo Clinic, Cleveland Clinic, PubMed, and OpenStax.
+
+## Features
+
+- **No accounts, no backend** — fully static, works offline after first load
+- **Auto-bookmarking** — picks up where you left off using localStorage
+- **Reading progress** — tracks visited/completed articles with a progress bar
+- **Dark mode** — toggleable, respects system preference
+- **Search** — filter articles by title or summary
+- **Sequential navigation** — previous/next links for linear reading
+- **Mobile-friendly** — responsive, mobile-first design
+
+## Tech stack
+
+Plain HTML + CSS + vanilla JavaScript. No frameworks, no build step.
+
+- `marked.js` (CDN) for client-side markdown rendering
+- `localStorage` for bookmarks, read state, and dark mode
+- Deployable to GitHub Pages, Netlify, Vercel, or Cloudflare Pages as-is
+
+## Run locally
+
+```bash
+git clone https://github.com/sucheno/the-human-os.git
+cd the-human-os
+python3 -m http.server 8000
+# Open http://localhost:8000
+```
+
+Any static file server works — the site is just HTML, CSS, JS, and markdown files.
+
+## Project structure
+
+```
+index.html            ← Table of contents (home page)
+article.html          ← Article template (content injected via JS)
+style.css             ← Medium-style typography, light + dark themes
+app.js                ← Routing, rendering, bookmarking, search
+manifest.json         ← Ordered list of all sections and articles
+content/
+  01-systems-overview/
+  02-hormones/
+  03-nutrition/
+  04-sleep/
+  05-lifestyle-integration/
+assets/
+  images/             ← Diagrams and illustrations
+```
+
+## Content accuracy
+
+Every factual claim is sourced from authoritative references:
+
+- NIH / NHLBI / NIDDK / NIAID / NINDS
+- NIH Office of Dietary Supplements
+- Mayo Clinic / Cleveland Clinic
+- CDC
+- OpenStax *Anatomy and Physiology*
+- Peer-reviewed articles (PubMed/PMC)
+
+Where science is contested or evolving, the text says so explicitly rather than presenting one view as settled fact.
+
+## Disclaimer
+
+This site is for educational purposes only and does not constitute medical advice. Consult a qualified healthcare professional for personal health decisions.
+
+## License
+
+Content and code in this repository are provided for personal educational use.
