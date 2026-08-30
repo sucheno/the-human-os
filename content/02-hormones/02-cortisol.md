@@ -10,7 +10,7 @@ Cortisol is often simplified as "the stress hormone," but that label sells it sh
 
 ## Where cortisol comes from
 
-![The HPA axis: Hypothalamus releases CRH, Pituitary releases ACTH, Adrenals produce Cortisol, with negative feedback](../../assets/images/img-02-02-hpa-axis.jpeg)
+![The HPA axis: Hypothalamus releases CRH, Pituitary releases ACTH, Adrenals produce Cortisol, with negative feedback](assets/images/img-02-02-hpa-axis.jpeg)
 
 Cortisol is a steroid hormone produced by the adrenal cortex — the outer layer of the adrenal glands, which sit on top of each kidney. Its production is controlled by the hypothalamic-pituitary-adrenal (HPA) axis:
 
@@ -21,7 +21,7 @@ Cortisol is a steroid hormone produced by the adrenal cortex — the outer layer
 
 ## The daily cortisol rhythm
 
-![Cortisol levels over 24 hours — peak in early morning, lowest at midnight](../../assets/images/img-02-02-cortisol-daily-rhythm.jpeg)
+![Cortisol levels over 24 hours — peak in early morning, lowest at midnight](assets/images/img-02-02-cortisol-daily-rhythm.jpeg)
 
 Cortisol follows a predictable daily pattern called the diurnal rhythm. Levels are highest in the early morning, typically peaking around 30 minutes after waking (the cortisol awakening response). They then gradually decline throughout the day, reaching their lowest levels around midnight.
 

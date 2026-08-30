@@ -10,7 +10,7 @@ Your cardiovascular system is the body's delivery network. It moves oxygen, nutr
 
 ## The heart as a pump
 
-![Simplified cross-section of the heart showing four chambers and blood flow](../../assets/images/img-01-01-heart-chambers.jpeg)
+![Simplified cross-section of the heart showing four chambers and blood flow](assets/images/img-01-01-heart-chambers.jpeg)
 
 The human heart is a muscular organ roughly the size of a closed fist, located slightly left of center in the chest. It beats approximately 100,000 times per day, pumping about 7,500 liters of blood through the body in that time.
 

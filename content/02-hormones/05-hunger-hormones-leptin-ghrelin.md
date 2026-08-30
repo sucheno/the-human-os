@@ -8,7 +8,7 @@ summary: "The two hormones that regulate hunger, satiety, and energy balance."
 
 Hunger is not just a feeling — it is a hormonal signal. Two hormones in particular act as the primary regulators of appetite: ghrelin, which tells your brain you are hungry, and leptin, which tells your brain you have enough energy stored. Together, they form a feedback system designed to keep your body weight relatively stable over time. But this system did not evolve for a world of constant food availability.
 
-![Ghrelin from the stomach signals hunger while leptin from fat cells signals satiety, both acting on the hypothalamus](../../assets/images/img-02-05-leptin-ghrelin.jpeg)
+![Ghrelin from the stomach signals hunger while leptin from fat cells signals satiety, both acting on the hypothalamus](assets/images/img-02-05-leptin-ghrelin.jpeg)
 
 ## Ghrelin: the hunger signal
 

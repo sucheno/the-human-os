@@ -10,7 +10,7 @@ Your body is not a collection of independent parts. It is an integrated system o
 
 When you eat a meal, your digestive system breaks it down, your cardiovascular system distributes the nutrients, your endocrine system manages the hormonal response to incoming glucose, and your nervous system coordinates the whole process without you thinking about it. No single system works alone.
 
-![Map of the body's seven major systems and their interconnections](../../assets/images/img-01-00-systems-map.jpeg)
+![Map of the body's seven major systems and their interconnections](assets/images/img-01-00-systems-map.jpeg)
 
 ## What this section covers
 

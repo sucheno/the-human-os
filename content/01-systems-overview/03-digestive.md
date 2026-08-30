@@ -10,7 +10,7 @@ Food, as you eat it, is useless to your cells. A piece of bread, a bite of chick
 
 ## The alimentary canal
 
-![Overview of the digestive tract from mouth to rectum with accessory organs](../../assets/images/img-01-03-digestive-tract.jpeg)
+![Overview of the digestive tract from mouth to rectum with accessory organs](assets/images/img-01-03-digestive-tract.jpeg)
 
 The digestive tract is essentially a long tube running from mouth to anus, roughly 9 meters (30 feet) in total length. Each section performs a specific role:
 

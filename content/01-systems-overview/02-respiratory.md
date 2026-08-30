@@ -16,7 +16,7 @@ The human lungs contain approximately 480 million alveoli. Each alveolus is surr
 
 ## Gas exchange
 
-![Oxygen and carbon dioxide exchange at the alveolus](../../assets/images/img-01-02-gas-exchange.jpeg)
+![Oxygen and carbon dioxide exchange at the alveolus](assets/images/img-01-02-gas-exchange.jpeg)
 
 Oxygen moves from the air in the alveoli into the blood by simple diffusion — it travels from an area of high concentration (the alveolus) to low concentration (the capillary blood). Carbon dioxide moves in the opposite direction, from blood into the alveolus, to be exhaled.
 

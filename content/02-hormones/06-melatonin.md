@@ -52,7 +52,7 @@ Melatonin is widely available as an over-the-counter supplement in many countrie
 
 ## The melatonin-cortisol relationship
 
-![Melatonin and cortisol follow inverse 24-hour rhythms — as one rises, the other falls](../../assets/images/img-02-06-melatonin-cortisol-rhythm.jpeg)
+![Melatonin and cortisol follow inverse 24-hour rhythms — as one rises, the other falls](assets/images/img-02-06-melatonin-cortisol-rhythm.jpeg)
 
 Melatonin and cortisol have an inverse relationship over the 24-hour cycle. As melatonin rises in the evening, cortisol falls. As melatonin drops in the early morning, cortisol rises. This reciprocal pattern is central to the body's sleep-wake rhythm.
 

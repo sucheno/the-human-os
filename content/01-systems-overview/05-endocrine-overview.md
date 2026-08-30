@@ -14,7 +14,7 @@ The nervous system operates in milliseconds but targets specific cells through d
 
 ## Major endocrine glands
 
-![Endocrine glands located throughout the body](../../assets/images/img-01-05-endocrine-glands.jpeg)
+![Endocrine glands located throughout the body](assets/images/img-01-05-endocrine-glands.jpeg)
 
 The endocrine system consists of several glands and hormone-producing tissues spread across the body:
 

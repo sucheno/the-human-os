@@ -362,7 +362,7 @@ All images should be saved in: `assets/images/`
 
 In the markdown articles, images will be inserted as:
 ```markdown
-![Description of the image](../../assets/images/img-XX-XX-name.png)
+![Description of the image](assets/images/img-XX-XX-name.jpeg)
 ```
 
 Once you have generated and saved all images with the filenames above, let me know and I will integrate them into the relevant article markdown files.

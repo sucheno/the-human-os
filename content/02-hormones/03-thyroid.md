@@ -21,7 +21,7 @@ About 99% of thyroid hormones in the blood are bound to carrier proteins. Only t
 
 ## The HPT axis
 
-![The HPT axis: Hypothalamus releases TRH, Pituitary releases TSH, Thyroid produces T4 and T3, with negative feedback](../../assets/images/img-02-03-hpt-axis.jpeg)
+![The HPT axis: Hypothalamus releases TRH, Pituitary releases TSH, Thyroid produces T4 and T3, with negative feedback](assets/images/img-02-03-hpt-axis.jpeg)
 
 Thyroid hormone production is regulated by the hypothalamic-pituitary-thyroid axis:
 

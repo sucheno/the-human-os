@@ -39,7 +39,7 @@ Glucagon is essentially the opposite of insulin — it mobilizes stored energy r
 
 ## The insulin-glucagon balance
 
-![Insulin and glucagon working like a seesaw to regulate blood glucose](../../assets/images/img-02-01-insulin-glucagon-seesaw.jpeg)
+![Insulin and glucagon working like a seesaw to regulate blood glucose](assets/images/img-02-01-insulin-glucagon-seesaw.jpeg)
 
 In a healthy person, insulin and glucagon rarely act simultaneously at high levels. After a meal, insulin rises and glucagon falls. Between meals, insulin drops and glucagon rises. This seesaw keeps blood glucose stable.
 

@@ -10,7 +10,7 @@ The musculoskeletal system does far more than let you walk and lift things. Bone
 
 ## The skeletal system
 
-![Cross-section of a long bone showing compact bone, spongy bone, and marrow](../../assets/images/img-01-07-bone-cross-section.jpeg)
+![Cross-section of a long bone showing compact bone, spongy bone, and marrow](assets/images/img-01-07-bone-cross-section.jpeg)
 
 The adult human skeleton consists of 206 bones. These can be classified by shape — long bones (femur, humerus), short bones (wrist bones), flat bones (skull, ribs), and irregular bones (vertebrae). Bones serve several functions:
 

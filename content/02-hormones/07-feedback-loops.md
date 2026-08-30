@@ -10,7 +10,7 @@ Throughout this section, you have seen the same pattern repeatedly: a hormone ri
 
 ## Negative feedback: the thermostat model
 
-![A circular diagram showing the generic negative feedback loop: detect change, respond, correct, repeat](../../assets/images/img-02-07-negative-feedback-loop.jpeg)
+![A circular diagram showing the generic negative feedback loop: detect change, respond, correct, repeat](assets/images/img-02-07-negative-feedback-loop.jpeg)
 
 The most common type of endocrine regulation is negative feedback. It works exactly like a thermostat:
 

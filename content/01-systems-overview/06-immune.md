@@ -10,7 +10,7 @@ You are constantly surrounded by organisms that would thrive inside your body if
 
 ## Three lines of defense
 
-![Three concentric layers of immune defense: barriers, innate immunity, and adaptive immunity](../../assets/images/img-01-06-immune-layers.jpeg)
+![Three concentric layers of immune defense: barriers, innate immunity, and adaptive immunity](assets/images/img-01-06-immune-layers.jpeg)
 
 Immunologists traditionally describe the immune system in three layers:
 

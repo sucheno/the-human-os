@@ -22,7 +22,7 @@ The peripheral nervous system is further divided functionally:
 
 ## How neurons work
 
-![Structure of a neuron showing dendrites, cell body, axon, and synaptic terminals](../../assets/images/img-01-04-neuron.jpeg)
+![Structure of a neuron showing dendrites, cell body, axon, and synaptic terminals](assets/images/img-01-04-neuron.jpeg)
 
 The basic functional unit of the nervous system is the neuron. The human brain contains roughly 86 billion neurons. Each neuron has three main parts:
 
@@ -46,7 +46,7 @@ The balance of these neurotransmitters shapes everything from your mood to your 
 
 ## The autonomic nervous system in detail
 
-![Sympathetic (fight-or-flight) versus parasympathetic (rest-and-digest) effects on the body](../../assets/images/img-01-04-ans-branches.jpeg)
+![Sympathetic (fight-or-flight) versus parasympathetic (rest-and-digest) effects on the body](assets/images/img-01-04-ans-branches.jpeg)
 
 The autonomic nervous system has two opposing branches:
 
